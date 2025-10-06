@@ -1,4 +1,4 @@
-# StudentBookTrade 校園二手書交換平台
+# StudentBookTrade 校園二手物品交換平台
 
 ### 第十二組
 #### 組長 : 林威辰  組員 : 陳浚瑋、范哲瑋
